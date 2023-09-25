@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Koa is Cute</title>
+</head>
+<body>
+<center>
+<h1>今天又來做網頁了</h1>
+
+<img src="images/1.png"height=500 />
+<br>
+<p><a href="https://thwiki.cc/%E5%B0%8F%E6%81%B6%E9%AD%94"target="_blank">小惡魔</a>可愛，說小惡魔不好看的...我不會理你這個⑨</p>
+<br>
+<img src="images/3.jpg"height=500 />
+<hr>
+<p><a href="https://zh.wikipedia.org/zh-tw/%E6%9D%B1%E6%96%B9Project"target="_blank">東方Project</a>也好玩，建議有空去<a href="https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%A5%9E%E7%A4%BE%E4%BE%8B%E5%A4%A7%E7%A5%AD"target="_blank">博麗神社例大祭</a>去買官方出版物</p>
+<hr>
+<img src="images/Toast.gif"height=500 />
+<br>
+<hr>
+<h2>最後...吐司好吃</h2>
+</center>
+</body>
+
+</html>
